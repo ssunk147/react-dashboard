@@ -1,3 +1,18 @@
+# 📊 React Admin Dashboard
+
+Forked from Flatlogic — customized for UI practice and dashboard prototyping.
+
+## 🔧 Features
+- React.js + Redux based UI
+- Charts, widgets, login forms, sidebars
+- Modern CSS and responsive layouts
+
+## 🚀 How to Run
+```bash
+npm install
+npm start
+
+
 ## React Dashboard — "[isomorphic](http://nerds.airbnb.com/isomorphic-javascript-future-web-apps/)" admin dashboard template
 built with [React](https://facebook.github.io/react/), [Bootstrap](http://getbootstrap.com/), [React Router](https://reacttraining.com/react-router/),
 [Redux](http://redux.js.org/) and [GraphQL](http://graphql.org/) based on
